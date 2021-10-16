@@ -15,8 +15,8 @@
     <input type="submit" name="system_info" value="system_info"/>
 </form>
 
-//commented to check
 
+//dbconnection required
 <?php
 $servername = "localhost";
 $username = "root";
