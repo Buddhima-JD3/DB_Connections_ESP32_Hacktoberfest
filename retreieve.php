@@ -15,7 +15,7 @@
     <input type="submit" name="system_info" value="system_info"/>
 </form>
 
-
+//commented to check
 
 <?php
 $servername = "localhost";
