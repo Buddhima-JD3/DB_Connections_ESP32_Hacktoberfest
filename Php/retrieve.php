@@ -16,8 +16,8 @@
 </form>
 
 
-//dbconnection required
 <?php
+//dbconnection required parameters
 $servername = "localhost";
 $username = "root";
 $password = "";
