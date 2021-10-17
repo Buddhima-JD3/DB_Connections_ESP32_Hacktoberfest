@@ -1,2 +1,2 @@
-# DB_Connections_Hacktoberfest
+# DB_Connections_ESP32_Hacktoberfest
 
